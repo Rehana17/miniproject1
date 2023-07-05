@@ -1,5 +1,9 @@
 # miniproject1
 This is about my project on Augmented Reality
+
+
+
+
 SCOPE OF THE PROJECT: 
                                  This   project   aims  at  showcasing  the leaders speech with the help of ar. By this project   the new generation  kids  , students and many can again knowledge in a interactive way.  Nowadays kids and students are more interactive and well knowledgeable ones so for them just teaching manually is not that much effective and most of them are not aware of the history or about our leaders so this project helps the students to know well about the leaders and their way of talking and speeches of them. 
                                  We have used vuforia software that is we have imported vuforia software in unity editor. By this editor and software we set the image target and we have set the required components needed. 
